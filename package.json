@@ -1,0 +1,23 @@
+{
+  "name": "codingbootcamp-assignment-week12",
+  "version": "1.0.0",
+  "description": "A simple inventory management command line tool for Week 12 of UofT's Coding Bootcamp",
+  "main": "bamazonCusomter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msvendsentan/CodingBootcamp-Assignment-Week12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msvendsentan/CodingBootcamp-Assignment-Week12/issues"
+  },
+  "homepage": "https://github.com/msvendsentan/CodingBootcamp-Assignment-Week12#readme",
+  "dependencies": {
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0"
+  }
+}
